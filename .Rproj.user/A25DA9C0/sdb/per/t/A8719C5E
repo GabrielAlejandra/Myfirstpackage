@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(testthat)\nlibrary(myfirstpackage)\n\ntest_check(\"myfirstpackage\")\n",
+    "created" : 1511744406913.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "282828690",
+    "id" : "A8719C5E",
+    "lastKnownWriteTime" : 1510676766,
+    "last_content_update" : 1510676766,
+    "path" : "C:/Users/TOSHIBA/Downloads/myfirstpackage-master/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

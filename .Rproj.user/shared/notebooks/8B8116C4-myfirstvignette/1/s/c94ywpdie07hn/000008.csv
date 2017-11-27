@@ -1,0 +1,4 @@
+"0","library(myfirstpackage)"
+"2","Error in library(myfirstpackage) : 
+  there is no package called ‘myfirstpackage’
+"
